@@ -49,3 +49,4 @@ Fake commit number 48
 Fake commit number 49
 Fake commit number 50
 Fake commit number 1
+Fake commit number 2
