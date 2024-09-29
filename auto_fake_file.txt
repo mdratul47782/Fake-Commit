@@ -3,3 +3,4 @@ Fake commit number 2
 Fake commit number 3
 Fake commit number 4
 Fake commit number 5
+Fake commit number 6
